@@ -1,6 +1,6 @@
 {
     "name": "cra-template-multi-react-template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
       "react",
       "create-react-app",
@@ -23,7 +23,8 @@
       "url": "https://github.com/facebook/create-react-app/issues"
     },
     "files": [
-      "template",
+      "src",
+      "public",
       "template.json"
     ]
   }
