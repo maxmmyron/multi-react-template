@@ -1,0 +1,29 @@
+{
+    "name": "cra-template-multi-react-template",
+    "version": "1.0.0",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template"
+    ],
+    "description": "multi-react-template is a small template for quickly prototyping modern, dynamic, and scalable webpages and web applications.",
+    "author": {
+        "name": "Max Myron",
+        "url": "https://mmyron.com/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/maxmmyron/multi-react-template"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=10"
+    },
+    "bugs": {
+      "url": "https://github.com/facebook/create-react-app/issues"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
