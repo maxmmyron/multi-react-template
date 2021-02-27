@@ -1,9 +1,9 @@
 {
     "name": "cra-template-multi-react-template",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "keywords": [
       "react",
-      "create-react-app",
+      "multi-page-template",
       "template"
     ],
     "description": "multi-react-template is a small template for quickly prototyping modern, dynamic, and scalable webpages and web applications.",
@@ -19,12 +19,8 @@
     "engines": {
       "node": ">=10"
     },
-    "bugs": {
-      "url": "https://github.com/facebook/create-react-app/issues"
-    },
     "files": [
-      "src",
-      "public",
+      "template",
       "template.json"
     ]
   }
